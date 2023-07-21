@@ -211,7 +211,7 @@ h1{
 
 
 .sect4{
-    background-image: url(../img/Rectangle_743_1_7f8d2f2596.png);
+    background-image: url(img/Rectangle_743_1_7f8d2f2596.png);
     border-radius: 1rem;
     margin-left: 7.5rem;
     margin-right: 7.5rem;
@@ -466,7 +466,7 @@ margin-bottom: 0;
     width: 77rem;
     border-radius: .5rem;
     height:22rem ;
-    background: url('../img/sect\ 8\ img.jpg');
+    background: url('img/sect\ 8\ img.jpg');
     margin-left: 8rem;
     color: white;
     background-image: linear-gradient(rgb 11,15,15);
